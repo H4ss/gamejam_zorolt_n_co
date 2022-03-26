@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/563-5634849_ufo-clipart-sprite-2d-sprite-ufo-hd-png.png-be50008e61a151d8aa9dea3b62719e15.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://ressources/personnage/non-polish materials/563-5634849_ufo-clipart-sprite-2d-sprite-ufo-hd-png.png"
+dest_files=[ "res://.import/563-5634849_ufo-clipart-sprite-2d-sprite-ufo-hd-png.png-be50008e61a151d8aa9dea3b62719e15.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
