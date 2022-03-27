@@ -1,0 +1,22 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://ressources/defeat_restart_nobg.png" type="Texture" id=1]
+[ext_resource path="res://ressources/zorolt_defeat.jpg" type="Texture" id=2]
+[ext_resource path="res://ressources/defeat_txt_nobg.png" type="Texture" id=3]
+[ext_resource path="res://scenes/staticscenes/defeat.gd" type="Script" id=4]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource( 4 )
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 465, 402 )
+scale = Vector2( 4.85333, 4.80357 )
+texture = ExtResource( 2 )
+
+[node name="Sprite2" type="Sprite" parent="."]
+position = Vector2( 922, 116 )
+texture = ExtResource( 3 )
+
+[node name="Sprite3" type="Sprite" parent="."]
+position = Vector2( 490, 598 )
+texture = ExtResource( 1 )

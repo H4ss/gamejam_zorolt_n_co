@@ -16,12 +16,8 @@ func _ready():
 #func _process(delta):
 #	pass
 
-
 func _on_StartButton_pressed():
-	#get_tree().change_scene("res://scenes/ / .tscn")
-	pass # Replace with function body.
-
+	get_tree().change_scene("res://scenes/lvl/00/firstlvl.tscn")
 
 func _on_QuitButton_pressed():
-	#get_tree().change_scene("res://scenes/ / .tscn")
-	pass # Replace with function body.
+	get_tree().quit()

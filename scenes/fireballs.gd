@@ -25,4 +25,7 @@ func _on_VisibilityNotifier2D_screen_exited():
 
 
 func _on_Fireball_body_entered(body):
+	print("fireball hit ", body.name)
+	if 'enemy' in body.name:
+		body.dead()
 	queue_free() # Replace with function body.
