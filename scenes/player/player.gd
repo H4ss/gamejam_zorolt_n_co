@@ -4,6 +4,7 @@ var velocity = Vector2()
 var MOVING_SPEED = 500 # pour les besoin de dev, je le fais aller vite, penser a réduire la vitesse
 var on_ground = true
 var is_dead = false
+var dragon_killed = 0
 
 const GRAVITY = 10
 const JUMP_POWER = -250

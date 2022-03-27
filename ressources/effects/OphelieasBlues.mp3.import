@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/OphelieasBlues.mp3-bce17028b4ab4e396045481c95ad32fc.mp3str"
+
+[deps]
+
+source_file="res://ressources/effects/OphelieasBlues.mp3"
+dest_files=[ "res://.import/OphelieasBlues.mp3-bce17028b4ab4e396045481c95ad32fc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
